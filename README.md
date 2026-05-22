@@ -154,3 +154,4 @@ market accelerates, stakeholder trust grows.
 - Personal GitHub: [@vinicq](https://github.com/vinicq)
 - LinkedIn: [linkedin.com/in/vinicq](https://linkedin.com/in/vinicq)
 - E-mail: vinicq@gmail.com
+
