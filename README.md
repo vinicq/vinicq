@@ -18,9 +18,8 @@ ground my engineering stands on: the code I write is designed to be
 testable from the first commit.
 
 Real international experience: 2.5 years on Pixsee in partnership with
-Compal Electronics / MediaTek (Taiwan), with all technical communication
-in English. Instructor of the **QA-TIC64** program at VERTEX, training new
-quality analysts.
+Compal Electronics / MediaTek (Taiwan). Instructor of the **QA-TIC64**
+program at VERTEX, training new quality analysts.
 
 ---
 
