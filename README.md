@@ -1,15 +1,16 @@
 # Vinicius Queiroz
 
 **Software Quality Specialist · Software Engineer · Tech Lead**
-EDGE Innovation Center / UFAL · VERTEX · Maceió, AL — Brazil
+EDGE/UFAL, Instituto de Ciência e Tecnologia (Federal University of Alagoas) · VERTEX, Instituto de Ciência e Tecnologia · Maceió, AL, Brazil
 
 ---
 
 ## About
 
 Sixteen years in tech. I work in parallel as a Senior QA Analyst and as a
-Software Engineer / Tech Lead on R&D projects at the EDGE Innovation Center
-(Institute of Computing, UFAL) and at VERTEX. Postgraduate specialization in
+Software Engineer / Tech Lead on R&D projects at EDGE/UFAL (Instituto de
+Ciência e Tecnologia, tied to the Federal University of Alagoas) and at
+VERTEX (Instituto de Ciência e Tecnologia). Postgraduate specialization in
 Software Testing from Universidade Cruzeiro do Sul (2023, 470h, GPA 8.40/10).
 
 Backend is where I spend most of my time (Python, TypeScript/Node.js). I
@@ -17,9 +18,8 @@ deliver the full cycle when the project needs it. My QA background is the
 ground my engineering stands on: the code I write is designed to be
 testable from the first commit.
 
-Real international experience: 2.5 years on Pixsee in partnership with
-Compal Electronics / MediaTek (Taiwan). Instructor of the **QA-TIC64**
-program at VERTEX, training new quality analysts.
+Background covers national projects in Brazil and international projects,
+with teams across different countries and time zones.
 
 ---
 
@@ -31,17 +31,14 @@ program at VERTEX, training new quality analysts.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -69,18 +66,15 @@ program at VERTEX, training new quality analysts.
 ![TestCafe](https://img.shields.io/badge/TestCafe-36B6E5?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Protractor](https://img.shields.io/badge/Protractor-E23237?style=for-the-badge)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
-
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-3F7E3F?style=for-the-badge)
 ![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=for-the-badge)
 ![Karate](https://img.shields.io/badge/Karate-DC382D?style=for-the-badge)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-
 ![ISTQB](https://img.shields.io/badge/ISTQB-006699?style=for-the-badge)
 ![IREB](https://img.shields.io/badge/IREB-1F4E79?style=for-the-badge)
 ![ISO%2025010](https://img.shields.io/badge/ISO%2025010-FF6F00?style=for-the-badge)
@@ -130,20 +124,6 @@ suitability, performance efficiency, compatibility, usability,
 reliability, security, maintainability, portability) without treating
 quality as a cost. Done right, quality cuts cost: rework drops, time to
 market accelerates, stakeholder trust grows.
-
----
-
-## Where I am now
-
-- **EDGE Innovation Center (UFAL)** — Senior Tech Lead and Software
-  Engineer on projects across IoT, fintech, AI applied to healthcare,
-  and RPA
-- **VERTEX** — Senior QA Analyst and instructor of the QA-TIC64 program
-- **Revelo** (freelance) — AI Trainer and Software Engineer on LLM
-  evaluation pipelines
-- **[md-bridge](https://github.com/vinicq/md-bridge)** — OSS project:
-  self-hosted, deterministic PDF↔Markdown converter, no LLM in the
-  conversion path. MIT, multi-arch Docker, WCAG 2.1 AA, trilingual
 
 ---
 
