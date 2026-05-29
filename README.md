@@ -133,6 +133,6 @@ market accelerates, stakeholder trust grows.
 - [![GitHub vinicq](https://img.shields.io/badge/GitHub-vinicq-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicq)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinicq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicq)
 - [![Gmail](https://img.shields.io/badge/Gmail-vinicq%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicq@gmail.com)
-- [![EDGE-Gmail](https://img.shields.io/badge/Gmail-vinicq%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.queiroz@edge.ufal.br)
-- [![VERTEX-Gmail](https://img.shields.io/badge/Gmail-vinicq%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.queiroz@vertex.org.br)
+- [![EDGE-Gmail](https://img.shields.io/badge/Gmail-vinicius.queiroz%40edge.udal.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.queiroz@edge.ufal.br)
+- [![VERTEX-Gmail](https://img.shields.io/badge/Gmail-vinicius.queiroz%40vertex.org.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.queiroz@vertex.org.br)
 
