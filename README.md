@@ -129,7 +129,6 @@ market accelerates, stakeholder trust grows.
 
 ## Contact
 
-- [![GitHub vinicq-edge](https://img.shields.io/badge/GitHub-vinicq--edge-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicq-edge)
 - [![GitHub vinicq](https://img.shields.io/badge/GitHub-vinicq-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicq)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinicq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicq)
 - [![Gmail](https://img.shields.io/badge/Gmail-vinicq%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicq@gmail.com)
